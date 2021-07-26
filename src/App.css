@@ -1,38 +1,84 @@
 .App {
   text-align: center;
+  background-color: #fff;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+
+  background-color: #eee;
+  padding: 0 16px;
+  margin-top: 50px;
+  font-family: 'Rubik', sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.button{
+  margin-left: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.heading{
+  
+  margin: 50px ;
+  padding: 50px;
+  background-image: url("https://s6.gifyu.com/images/leeReactCvJumbotron-1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
 }
 
-.App-link {
-  color: #61dafb;
+.story {
+  text-align: left;
+  background-color:  #fff;
+  padding: 16px 16px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  margin: 10px 0;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.profile-img{
+padding: 6px 6px 16px 6px;
+box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+margin-right: 50px;
+
+}
+
+
+.container {
+  background-color: #fff;
+}
+
+.col1 {
+  background-color: #fff;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  padding: 16px 16px;
+  margin: 10px 0;
+}
+
+.roles {
+text-align: left;
+padding: 5px;
+
+}
+
+.skill-section{
+  text-align: left;
+  padding: 5px;
+}
+
+.training {
+  text-align: left;
+  padding: 5px;
+
+}
+
+.bottom-cards {
+  height: 50%;
+  width: 50%;
+}
+
+.websites {
+  height: 80%;
+  width: 80%;
+  padding: 5px;
+  margin-left: 10px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  border-radius: 5%;
 }
