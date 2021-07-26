@@ -17,7 +17,7 @@ function Byleesampson() {
   <Card.Body>
     <Card.Title>Penguins</Card.Title>
    
-    <p> Here is a link to a webesite I created for displaying my thoughts on Leadership using penguins <a href="http://penguins-by-lee-sampson.herokuapp.com/" target="_blank" rel="noreferrer">Penguins byLeeSampson</a></p>
+    <p> Here is a link to a website I created for displaying my thoughts on Leadership using penguins <a href="http://penguins-by-lee-sampson.herokuapp.com/" target="_blank" rel="noreferrer">Penguins byLeeSampson</a></p>
 
   </Card.Body>
 </Card>

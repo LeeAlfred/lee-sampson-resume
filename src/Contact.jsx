@@ -23,7 +23,7 @@ function Contact (){
         <Modal.Body>
         <p>The best way to get in touch and access to a printable copy of my CV is on <a href="https://www.linkedin.com/in/lee-sampson-831a6614a/" target="_blank" rel="noreferrer">my Linkedin Page</a></p>
         <p>
-          I am in the process of putting together a Youtube library of short videos so people can get more of an insight in to me. Let me know if you would like to see these via <a href="https://www.linkedin.com/in/lee-sampson-831a6614a/" target="_blank" rel="noreferrer">my Linkedin Page</a>
+          I am in the process of putting together a Youtube library of short videos so people can get more of an insight into me. Let me know if you would like to see these via <a href="https://www.linkedin.com/in/lee-sampson-831a6614a/" target="_blank" rel="noreferrer">my Linkedin Page</a>
         </p>
         </Modal.Body>
         <Modal.Footer>
