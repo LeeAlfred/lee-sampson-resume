@@ -33,7 +33,7 @@ The dream is to turn this into a career.
       </Card.Text>
     </Card.Body>
     <Card.Footer>
-      <small className="text-muted">If you are interested you can vist this website <a href="https://leesampson-project.netlify.app/" target="_blank" rel="noreferrer">here.</a> </small>
+      <small className="text-muted">If you are interested you can vist this website <a href="https://lee-sampson-project.netlify.app/" target="_blank" rel="noreferrer">here.</a> </small>
     </Card.Footer>
   </Card>
 </Col>

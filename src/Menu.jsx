@@ -10,7 +10,7 @@ return (
     <div className="menu">
 <Navbar fixed= "top" bg="light" expand="lg">
 <Navbar.Brand href="#home">
-     Lee Sampson Resume
+Lee Sampson Resume
 </Navbar.Brand> 
  <Navbar.Toggle />
  <Navbar.Collapse>
