@@ -21,7 +21,7 @@ function Penguins (){
           <Modal.Title>Leadership Penguins byLeeSampson</Modal.Title>
         </Modal.Header>
         <Modal.Body>
-        <p>Here is a link to a webesite I created for displaying my thoughts on Leadership using penguins if you are interested in getting some insight into my leadership style. <a href="http://penguins-by-lee-sampson.herokuapp.com/" target="_blank" rel="noreferrer">Penguins byLeeSampson</a></p></Modal.Body>
+        <p>Here is a link to a website I created for displaying my thoughts on Leadership using penguins. Check it out if you are interested in getting insight into my leadership style. <a href="http://penguins-by-lee-sampson.herokuapp.com/" target="_blank" rel="noreferrer">Penguins byLeeSampson</a></p></Modal.Body>
         <Modal.Footer>
           <Button variant="secondary" onClick={handleClose}>
             Close
