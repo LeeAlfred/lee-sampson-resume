@@ -67,6 +67,20 @@ The dream is to turn this into a career.
     </Card.Footer>
   </Card>
 </Col>
+<Col>
+  <Card border="light">
+    <Card.Img variant="top" className="websites" src="https://s6.gifyu.com/images/cartoonsByLeeSamspon.snip.webp" />
+    <Card.Body>
+      <Card.Title>Cartoons byLeeSampson</Card.Title>
+      <Card.Text>
+      Built using React for hosting my cartoons. This is an ongoing project as I learn more about optimising content.
+      </Card.Text>
+    </Card.Body>
+    <Card.Footer>
+      <small className="text-muted">If you are interested you can vist this website <a href="https://s6.gifyu.com/images/cartoonsByLeeSamspon.snip.webp" target="_blank" rel="noreferrer">here.</a> </small>
+    </Card.Footer>
+  </Card>
+</Col>
 </Row>
 </Container> 
       </div>
